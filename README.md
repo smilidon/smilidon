@@ -14,11 +14,11 @@ My master-data work covered worldwide sales, vendor, employee, shipping, custome
 
 ## How I work
 
-I fix the problem in front of me first. Then I look at what allowed it to happen.
+I fix the problem in front of me first and work backwards from there. Then I look at what allowed it to happen to keep it from happening again.
 
 If the process still relies on a hidden spreadsheet, unclear ownership, or one person knowing every exception, the problem isn't fixed. It is waiting to come back.
 
-A few rules I keep:
+My methodology:
 
 - Test assumptions before building around them.
 - Write down what changed in plain language.
